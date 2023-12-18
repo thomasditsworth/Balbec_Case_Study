@@ -15,4 +15,4 @@ Note: For Question 2, two methods are presented in the Main.py file. While repli
 
 Moreover, I opted to output the results to the same Excel file, a decision made for convenience, subject to modification.
 
-Thank you for investing time in reviewing this case study. Should you have any inquiries, please feel free to contact me at thomasjditsworth@gmail.com.
+Thank you so much for taking the time to review this case study. If you have any questions please feel free to contact me at thomasjditsworth@gmail.com.
