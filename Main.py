@@ -1,8 +1,8 @@
 import pandas as pd
 
 def question1(q1_filepath, excel_file_path):
-    column_6th = q1_filepath.iloc[:, 5]  # Property ID
-    column_7th = q1_filepath.iloc[:, 6]  # Asset Type
+    column_6th = q1_filepath.iloc[:, 5]
+    column_7th = q1_filepath.iloc[:, 6]
 
     right_table_dict = {}
 
